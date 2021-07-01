@@ -1,11 +1,11 @@
 const CONFIG = {
-    introTitle: 'Bae à!',
+    introTitle: 'Em à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'vì anh là cả thế giới của em',
+    title: 'vì anh là cả thế giới của em<3',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
